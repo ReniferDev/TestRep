@@ -1,0 +1,4 @@
+class Blank
+{
+	int field;
+}
